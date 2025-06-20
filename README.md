@@ -1,3 +1,12 @@
+🎉 Random Winner Picker on ICP
+A decentralized application (dApp) built on the Internet Computer Protocol (ICP) that randomly selects a winner from a list of names. Perfect for giveaways, contests, or random decisions!
+
+🌈 Features
+✅ Submit a list of names
+🎲 Randomly select a winner using secure randomness
+💙 Beautiful gradient UI with soft purple tones
+🧠 Built with  Rust in backend and modern frontend tools
+🚀 Fully decentralized — runs on the Internet Computer
 # Hello, world!
 
 "Hello, world!" projects are a common starting point for developers learning new languages or platforms, as it provides a simple demonstration of how a programming language can be written for an application.
